@@ -9,7 +9,7 @@ Recreate the main parts of my 2024 AGU poster!
 
 ## Figure 4
 ### Process the Mankoff Freshwater Runoff dataset
-`notebooks/freshwater_runoff.ipynb`
+[`notebooks/freshwater_runoff.ipynb`](https://github.com/tparker1/agu24/blob/main/notebooks/freshwater_runoff.ipynb)
 
 Additional files needed to run the notebook:
 
