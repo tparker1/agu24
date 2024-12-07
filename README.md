@@ -1,24 +1,19 @@
-_I appreciate your interest in my Github! I working on uploading my code. Check back soon for more updates!_
+# AGU24
+Welcome to my AGU research walkthrough! In this repo, I provide Jupyter Notebooks so that you can reproduce my analysis and figures.   
 
-# agu24
-Reproduce the main parts of my 2024 AGU poster!
+
 
 [![AGU24 Poster by Parker](https://drive.usercontent.google.com/download?id=1svHRAEDcdqEr1MralLeZGncD-gbIQLlD)](https://drive.google.com/file/d/1svHRAEDcdqEr1MralLeZGncD-gbIQLlD/view?usp=sharing)
 
-
-
-## Figure 4
-### Process the Mankoff Freshwater Runoff dataset
+## Process Mankoff Freshwater Runoff dataset
 [`notebooks/freshwater_runoff.ipynb`](https://github.com/tparker1/agu24/blob/main/notebooks/freshwater_runoff.ipynb)
 
-Additional data files needed to run the notebook:
+## Figure 3
+[`notebooks/figure 3.ipynb `](https://github.com/tparker1/agu24/blob/main/notebooks/figure%203.ipynb)
 
-[Fjord polygons shapefile](https://drive.google.com/file/d/1lEkHKa-Fgl-UknROEccnuc2W59ui6C0F/view?usp=drive_link)
-
-[Fjord Chlorophyll csvs](https://drive.google.com/drive/folders/1LfConKMAZuFDirtopHF6cCnxKPjTdAO5?usp=drive_link) 
-
-### Create the figure
+## Figure 4
 [`notebooks/figure 4.ipynb`](https://github.com/tparker1/agu24/blob/main/notebooks/figure%204.ipynb)
 
-If you want to skip the proccessing, you can download the freshwater data needed for the figure here: 
-[filtered freshwater data](https://drive.google.com/drive/folders/1Ci5FrHsG7j237Tpu75r_tUvqdVijSPcG?usp=drive_link)
+
+# yay science!
+![Adventure Time science gif](https://33.media.tumblr.com/831860b6bfb4fbeb25c1b147dccfb97d/tumblr_inline_n4ael3DOiN1qi5c65.gif)
