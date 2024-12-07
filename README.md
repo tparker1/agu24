@@ -14,6 +14,6 @@ Welcome to my AGU research walkthrough! In this repo, I provide Jupyter Notebook
 ## Figure 4
 [`notebooks/figure 4.ipynb`](https://github.com/tparker1/agu24/blob/main/notebooks/figure%204.ipynb)
 
-
+## I appreciate your interest in my AGU poster. Check back later for more updates!
 # yay science!
 ![Adventure Time science gif](https://33.media.tumblr.com/831860b6bfb4fbeb25c1b147dccfb97d/tumblr_inline_n4ael3DOiN1qi5c65.gif)
