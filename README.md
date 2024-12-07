@@ -17,3 +17,7 @@ Additional data files needed to run the notebook:
 
 [Fjord Chlorophyll csvs](https://drive.google.com/drive/folders/1LfConKMAZuFDirtopHF6cCnxKPjTdAO5?usp=drive_link) 
 
+### Create the figure
+[`notebooks/figure 4.ipynb`](https://github.com/tparker1/agu24/blob/main/notebooks/figure%204.ipynb)
+
+If you want to skip the proccessing, you can download the freshwater data needed for the figure here: [filtered freshwater data](https://drive.google.com/drive/folders/1Ci5FrHsG7j237Tpu75r_tUvqdVijSPcG?usp=drive_link)
